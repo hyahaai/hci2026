@@ -1,0 +1,8 @@
+com.example.emotiongallery.app-pngs-0 /Users/hh/AndroidStudioProjects/HCI-main/app/build/generated/res/pngs/debug
+com.example.emotiongallery.app-updated_navigation_xml-1 /Users/hh/AndroidStudioProjects/HCI-main/app/build/generated/updated_navigation_xml/debug
+com.example.emotiongallery.app-packageDebugResources-2 /Users/hh/AndroidStudioProjects/HCI-main/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.emotiongallery.app-packageDebugResources-3 /Users/hh/AndroidStudioProjects/HCI-main/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.emotiongallery.app-debug-4 /Users/hh/AndroidStudioProjects/HCI-main/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.emotiongallery.app-debug-5 /Users/hh/AndroidStudioProjects/HCI-main/app/src/debug/res
+com.example.emotiongallery.app-main-6 /Users/hh/AndroidStudioProjects/HCI-main/app/src/main/res
+gradleHome-0 /Users/hh/.gradle

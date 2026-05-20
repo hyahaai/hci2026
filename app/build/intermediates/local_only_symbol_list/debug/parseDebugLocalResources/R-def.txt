@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable c1eea27b01a083f771d8f9ad1b649b48
+drawable df3c25d0b12acae8ced735dae44bc7e1
+drawable e29bdece8b6d9d69bc9011bae832c402
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable p_043878c4f08669b06b83ce0e3f119e41
+drawable p_139c0466879591993e40b0317e330199
+drawable p_3bcd7f51d613f55dc7d667933fd925f6
+drawable p_412ef09c4b09415e6546e596698e1d18
+drawable p_4e178a8c4a51abde1debc71d589e3f41
+drawable p_4ef476358b30a7d7ef43a88935067186
+drawable p_6771bec00b3f69cf5395c3024e56cc77
+drawable p_6ce838ef96fa9976aa15154e8e3cbde0
+drawable p_76433c00c62ae83e9e2006b03a0b4fc4
+drawable p_99ae8324c99a3101e670383bd2d7d517
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.EmotionGallery
+xml backup_rules
+xml data_extraction_rules
